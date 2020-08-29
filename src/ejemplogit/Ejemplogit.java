@@ -6,7 +6,7 @@
 package ejemplogit;
 
 /**
- *
+ * Ejemplo clase
  * @author aleja
  */
 public class Ejemplogit {
