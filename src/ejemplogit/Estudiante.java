@@ -6,7 +6,7 @@
 package ejemplogit;
 
 /**
- *
+ * Esta es una identidad estudiante
  * @author Alejandro Miranda Sanchez <alejandromsz@hotmail.com>
  */
 public class Estudiante {
